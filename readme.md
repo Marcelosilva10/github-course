@@ -1,7 +1,7 @@
 #Git o ínicio!
 
-O GitHub é um repositório aonde podemos guardar nosso projetos pessoais,
-As empresas colocam seus projetos no Github e grandes Startups.
+O GitHub é um repositório aonde podemos guardar nossos projetos pessoais.
+As empresas colocam seus projetos no Github e grandes Startups também colocam.
 
 Você pode mostrar seus trabalhos como Back-end ou Front, abaixo vou passar
 alguns links que ajudaram a entender como funciona o GITHUB...
