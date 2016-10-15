@@ -18,4 +18,4 @@ vai aprender o Idioma em Inglês.
 E um escola online de excelente qualidade aqui tem muito conteúdo para se aprofundar também.
 [CodeSchool - Em Inglês](https://www.codeschool.com/courses/mastering-github)
 
-
+Com o tempo colocarei mais conteúdo.
